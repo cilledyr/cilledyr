@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+ - 🌱 I’m currently learning AP Computer Science at EASV in Denmark.
+ - 🔭 I’m currently working on TAKING OVER THE UNIVERSE!!!
+ - 💬 Ask me about anything, you weren't expecing an answer though, right?
+ - ⚡ Fun fact (And yes i know a lot of those, useless some call them) Did you know that: A baby eel is called an elver.
+ - 😄 Pronouns and this is very important... DON'T Ma'am, Mrs or otherwise marry me off to someone random. 
+ - 🤔 Generally NSFW.
+
 <!--
 **cilledyr/cilledyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
