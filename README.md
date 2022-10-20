@@ -1,7 +1,7 @@
 ### Hi there 👋
 
- - 🌱 I’m currently learning AP Computer Science at EASV in Denmark.
- - 🔭 I’m currently working on TAKING OVER THE UNIVERSE!!!
+ - 🌱 I’m currently working on a few projects for myself.
+ - 🔭 I’m currently ALSO working on TAKING OVER THE UNIVERSE!!!
  - 💬 Ask me about anything, you weren't expecing an answer though, right?
  - ⚡ Fun fact (And yes i know a lot of those, useless some call them) Did you know that: A baby eel is called an elver.
  - 😄 Pronouns and this is very important... DON'T Ma'am, Mrs or otherwise marry me off to someone random. 
